@@ -24,7 +24,7 @@ The app does not require you to provide with personally identifiable information
 Any text added by you by using this app will be retained on your device and is not collected by me in any way.
 The text added by you should never include personal data, sensitive information, passwords, card numbers or any other content that could identify you or someone else. Only insert content related to the functionalities of this app (i.e. hashtags or category names).
 The app does use third party services that may collect information used to identify you.
-The app includes AdMob in order to show personalized Ad banners.
+The app includes AdMob in order to show personalized Ad banners. In particular, "Google can use the advertisment ID of the device where the Ad banner is shown, in order to generate interests and demographic data.The interests, the demographic data and other data can be used by Google to publish banner targeted for the user". 
 
 Changes to This Privacy Policy:
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately after they are posted.
